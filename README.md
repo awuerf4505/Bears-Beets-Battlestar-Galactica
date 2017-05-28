@@ -1,32 +1,11 @@
-## Welcome to GitHub Pages
+# What is Beats, Bears, Battlestar Galactica?
 
-You can use the [editor on GitHub](https://github.com/awuerf4505/bears_beets_bg_game/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+As a big fan of the show _The Office_, I decided to make a game themed off of one of the most memorable lines in the show. Dwight Shrute is by far the most memorable character on the TV show, and I wanted this game to give a window into his self-consious and love for Battlestar Galactica. 
+You can view the [repository on GitHub](https://github.com/awuerf4505/bears_beets_bg_game/edit/master/README.md) to see the actual code of the game.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### How to Play
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
