@@ -23,20 +23,20 @@ The goal of the game is to make it to the checkpoints at the end of each level s
 
 ### Enemies
 * Bears
-  *Most common enemy throughout the levels
-  *Removes one heart
+  * Most common enemy throughout the levels
+  * Removes one heart
 * Cylon Guard
-  *Only enemy limited to the space on their designated platform
-  *Removes one heart
+  * Only enemy limited to the space on their designated platform
+  * Removes one heart
 * Flying Cylon Raider
-  *Patrols all of the levels from the air
-  *Removes one heart
+  * Patrols all of the levels from the air
+  * Removes one heart
 
 ### Powerups/Power...downs
 * Green Bubble
-  *Gives one heart/life?? to Dwight
+  * Gives one heart/life?? to Dwight
 * Red Bubble
-  *Removes one heart/life??? from Dwight
+  * Removes one heart/life??? from Dwight
   
 ### Magic!!!
 This is an added element thst serves as an obstacle for Dwight. Each magic removes one heart/life??? from Dwight.
@@ -44,7 +44,7 @@ This is an added element thst serves as an obstacle for Dwight. Each magic remov
 ### Beets
 There are two differnet types of beets that Dwight can collect: individual beets and beet baskets.
 * Individual Beets
-  *Each, when collected, give one point to Dwight and give him one beet
+  * Each, when collected, give one point to Dwight and give him one beet
 * Beet Baskets
-  *The baskets are worth 5 individual beets and each add 5 points to Dwight while also giving him 5 beets
+  * The baskets are worth 5 individual beets and each add 5 points to Dwight while also giving him 5 beets
 
