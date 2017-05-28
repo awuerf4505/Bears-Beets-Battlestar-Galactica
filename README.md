@@ -1,4 +1,4 @@
-# What is Bears, Beats, Battlestar Galactica?
+# What is Bears, Beets, Battlestar Galactica?
 
 As a big fan of the show _The Office_, I decided to make a game themed off of one of the most memorable lines in the show. Dwight Shrute is by far the most memorable character on the TV show, and I wanted this game to give a window into his self-consious and love for Battlestar Galactica. 
 You can view the [repository on GitHub](https://github.com/awuerf4505/bears_beets_bg_game/edit/master/README.md) to see the actual code of the game.
