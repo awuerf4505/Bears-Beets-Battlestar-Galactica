@@ -12,13 +12,13 @@ You can view the [repository on GitHub](https://github.com/awuerf4505/bears_beet
 The goal of the game is to make it to the checkpoints at the end of each level so Dwight can continue the legacy of Battlestar Galactica to the ends of the universe while collecting as many beets as possible to stay alive.
 
 ### Controls
-	Left Arrow – run left slow
-	Right Arrow – run right slow
-	Up Arrow – run right fast
-	Down Arrow – run left fast
-	P – pause
-	M – turn on and off music
-	S – turn on and off sound
-	SPACE – jump 
+*	Left Arrow – run left slow
+*	Right Arrow – run right slow
+*	Up Arrow – run right fast
+*	Down Arrow – run left fast
+*	P – pause
+*	M – turn on and off music
+*	S – turn on and off sound
+*	SPACE – jump 
 
 
