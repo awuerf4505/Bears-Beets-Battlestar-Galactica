@@ -48,4 +48,6 @@ There are two differnet types of beets that Dwight can collect: individual beets
 * Beet Baskets
   * The baskets are worth 5 individual beets and each add 5 points to Dwight while also giving him 5 beets
 
-![picture alt]
+![picture alt][img/screenshot_1]
+![picture alt][img/screenshot_2]
+
