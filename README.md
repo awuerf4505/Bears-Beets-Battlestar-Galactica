@@ -31,6 +31,7 @@ The goal of the game is to make it to the checkpoints at the end of each level s
 * Flying Cylon Raider
   * Patrols all of the levels from the air
   * Removes one heart
+  
 <img src="img/screenshot_2.png" width="360">
 
 ### Powerups/Power...downs
