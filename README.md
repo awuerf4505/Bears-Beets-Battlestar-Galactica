@@ -3,7 +3,7 @@
 As a big fan of the show _The Office_, I decided to make a game themed off of one of the most memorable lines in the show. Dwight Shrute is by far the most memorable character on the TV show, and I wanted this game to give a window into his self-consious and love for Battlestar Galactica. 
 You can view the [repository on GitHub](https://github.com/awuerf4505/bears_beets_bg_game/edit/master/README.md) to see the actual code of the game.
 
-___You must have Python Version and Pygame version in order for the game to function properly!!!___
+___You must have Python Version 3.4.4 and Pygame Version 1.9.2 in order for the game to function properly!!!___
 ## How to Play
 
 
