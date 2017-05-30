@@ -31,7 +31,7 @@ The goal of the game is to make it to the checkpoints at the end of each level s
 * Flying Cylon Raider
   * Patrols all of the levels from the air
   * Removes one heart
-<img src="img/screenshot_1.png" width="360">
+<img src="img/screenshot_2.png" width="360">
 
 ### Powerups/Power...downs
 * Green Bubble
@@ -49,4 +49,4 @@ There are two differnet types of beets that Dwight can collect: individual beets
 * Beet Baskets
   * The baskets are worth 5 individual beets and each add 5 points to Dwight while also giving him 5 beets
 
-<img src="img/screenshot_2.png" width="360">
+<img src="img/screenshot_1.png" width="360">
