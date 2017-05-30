@@ -38,12 +38,12 @@ The goal of the game is to make it to the checkpoints at the end of each level s
 
 ### Powerups/Power...downs
 * Green Bubble
-  * Gives one heart/life?? to Dwight
+  * Gives one life to Dwight
 * Red Bubble
-  * Removes one heart/life??? from Dwight
+  * Removes one point from Dwight's score
   
 ### Magic!!!
-This is an added element thst serves as an obstacle for Dwight. Each magic removes one heart/life??? from Dwight.
+This is an added element thst serves as an obstacle for Dwight. Each magic removes one life from Dwight.
 
 ### Beets
 There are two differnet types of beets that Dwight can collect: individual beets and beet baskets.
