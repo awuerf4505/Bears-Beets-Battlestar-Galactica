@@ -37,9 +37,9 @@ The goal of the game is to make it to the checkpoints at the end of each level s
 
 
 ### Powerups/Power...downs
-* Green Bubble and Hearts
+* Green Bubbles and Hearts
   * Gives one life to Dwight
-* Red Bubble
+* Red Bubbles
   * Removes one point from Dwight's score
   
 ### Magic!!!
