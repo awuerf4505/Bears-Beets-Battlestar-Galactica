@@ -11,6 +11,8 @@ ___You must have Python Version 3.4.4 and Pygame Version 1.9.2 in order for the 
 
 The goal of the game is to make it to the checkpoints at the end of each level so Dwight can continue the legacy of Battlestar Galactica to the ends of the universe while collecting as many beets as possible to stay alive.
 
+<img src="img/screenshot_2.png" width="360">
+
 ### Controls
 *	Left Arrow – run left slow
 *	Right Arrow – run right slow
@@ -32,7 +34,7 @@ The goal of the game is to make it to the checkpoints at the end of each level s
   * Patrols all of the levels from the air
   * Removes one heart
   
-<img src="img/screenshot_2.png" width="360">
+
 
 ### Powerups/Power...downs
 * Green Bubble
