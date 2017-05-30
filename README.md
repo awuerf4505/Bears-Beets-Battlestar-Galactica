@@ -54,4 +54,6 @@ There are two differnet types of beets that Dwight can collect: individual beets
 
 ## Mini Flags
 These small objects give Dwight one heart
+
+
 <img src="img/screenshot_1.png" width="360">
