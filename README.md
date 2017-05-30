@@ -52,7 +52,7 @@ There are two differnet types of beets that Dwight can collect: individual beets
 * Beet Baskets
   * The baskets are worth 5 individual beets and each add 5 points to Dwight while also giving him 5 beets
 
-## Mini Flags
+### Mini Flags
 These small objects give Dwight one heart
 
 
